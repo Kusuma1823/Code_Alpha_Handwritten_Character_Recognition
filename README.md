@@ -1,4 +1,4 @@
-** Handwritten Character Recognition**
+                                                                        ** Handwritten Character Recognition**
 
 **Objective:**
 Identify handwritten characters or alphabets from input images using deep learning.
